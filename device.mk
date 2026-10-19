@@ -475,3 +475,8 @@ PRODUCT_SYSTEM_PROPERTIES += \
 # KProfiles
 PRODUCT_PACKAGES += \
     KProfiles
+
+# Paranoid Glyph
+PRODUCT_PACKAGES += \
+    ParanoidGlyphPhone1 \
+    GlyphAdapter
