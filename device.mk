@@ -480,7 +480,6 @@ PRODUCT_SYSTEM_PROPERTIES += \
 PRODUCT_PACKAGES += \
     KProfiles
 
-# Paranoid Glyph
+# Paranoid Glyph UI and service bridge
 PRODUCT_PACKAGES += \
-    ParanoidGlyphPhone1 \
-    GlyphAdapter
+    ParanoidGlyphPhone1
