@@ -41,7 +41,7 @@ TARGET_CUSTOM_UDFPS := true
 WITH_BCR := true
 
 # Maintainer Name
-INFINITY_MAINTAINER := iplaynasty
+INFINITY_MAINTAINER := Neeraj Sirawag
 
 # Whether Including Google Apps
 WITH_GAPPS := true
